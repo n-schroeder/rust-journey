@@ -12,7 +12,7 @@ You can follow my thoughts and progress on **[X (formerly Twitter) at @_noahschr
 
 I'm organizing my work into two main categories to separate learning from building.
 
-### `/the-book`
+### `coursework`
 This is where all my lesson-based projects live. I'm following a linear path, and the folders are numbered to show that progression.
 
 * **`/01-basics`**: The fundamentals—from "Hello, World!" to variables, functions, and control flow.
