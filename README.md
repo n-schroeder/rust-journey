@@ -10,9 +10,17 @@ You can follow my thoughts and progress on **[X (formerly Twitter) at @_noahschr
 
 ## Repository Structure
 
-I'll be organizing my learning into a series of small, focused projects:
+I'm organizing my work into two main categories to separate learning from building.
 
-* **`/01-hello-world`**: The basics of Cargo, variables, and functions.
-* **`/02-structs-and-enums`**: Exploring Rust's data types.
-* **`/03-the-borrow-checker`**: (Wish me luck) Understanding ownership and lifetimes.
+### `/the-book`
+This is where all my lesson-based projects live. I'm following a linear path, and the folders are numbered to show that progression.
+
+* **`/01-getting-started`**: Getting Rust set up.
+* **`/02-programming-a-guessing-game`**: First walk-through Rust project.
+* **`/03-common-programming-concepts`**: Rust's take on standard programming concepts.
 * *(More to come...)*
+
+### `/projects`
+This is my personal sandbox and project portfolio. These are independent projects I build for fun, to solve a problem, or to apply what I've learned from 'The Book.'
+
+* *(No projects... yet!)*
