@@ -15,9 +15,9 @@ I'm organizing my work into two main categories to separate learning from buildi
 ### `/the-book`
 This is where all my lesson-based projects live. I'm following a linear path, and the folders are numbered to show that progression.
 
-* **`/01-getting-started`**: Getting Rust set up.
-* **`/02-programming-a-guessing-game`**: First walk-through Rust project.
-* **`/03-common-programming-concepts`**: Rust's take on standard programming concepts.
+* **`/01-basics`**: The fundamentals—from "Hello, World!" to variables, functions, and control flow.
+* **`/02-structs-and-enums`**: Exploring Rust's powerful custom data types.
+* **`/03-ownership-borrowing`**: (Wish me luck) My notes and exercises on tackling the borrow checker.
 * *(More to come...)*
 
 ### `/projects`
